@@ -1,4 +1,4 @@
-![geoseong GitHub stats](https://server.dooboo.io/github-stats/geoseong)
+![geoseong GitHub stats](https://stats.hyochan.dev/api/github-stats-advanced?login=geoseong)
 
 <!--
 **geoseong/geoseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
