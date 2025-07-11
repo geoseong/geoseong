@@ -1,16 +1,13 @@
-![geoseong GitHub stats](https://stats.hyochan.dev/api/github-stats-advanced?login=geoseong)
+🤗 Open to networking
 
-<!--
-**geoseong/geoseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:cloud: [AWS Community Hero](https://builder.aws.com/community/@taeseongpark) in 🇰🇷
 
-Here are some ideas to get you started:
+🎤 Meetup organizer of AWS Korean UserGroup ([**AWSKRUG**](https://www.meetup.com/ko-KR/awskrug/)) - [frontend](https://github.com/public-frontend-group/meetup), [gametech](https://github.com/awskrug/gametech-group), [gudi(area of Seoul)](https://github.com/awskrug/gudi-group)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕹️ Current Unity 2D Developer
+
+📱 Ex React & React-Native Developer
+
+💻 Used serverless framework & Amplify framework
+
+🧑🏻‍💻 Trying to build whatever I want
